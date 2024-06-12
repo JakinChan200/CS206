@@ -1,0 +1,16 @@
+< inputs/uslin.719
+< inputs/test365
+inputs/uslin.1982
+inputs/uslin.1796
+< inputs/tc80
+< inputs/test187
+< inputs/tst197
+< inputs/uslin.784
+< inputs/uslin.298
+< inputs/uslin.1600
+inputs/uslin.338
+inputs/uslin.326
+inputs/uslin.1503
+< inputs/uslin.984
+< inputs/newtst364.tst
+one doesntliketwo

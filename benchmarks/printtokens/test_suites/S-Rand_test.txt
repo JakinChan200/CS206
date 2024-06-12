@@ -1,0 +1,17 @@
+< inputs/tc237
+one doesntliketwo
+< inputs/uslin.1332
+inputs/uslin.141
+< inputs/uslin.1284
+inputs/uslin.726
+< inputs/newtst84.tst
+< inputs/tst206
+< inputs/uslin.933
+< inputs/uslin.233
+< inputs/tst115
+< inputs/uslin.1029
+< inputs/newtst344.tst
+inputs/uslin.1614
+< inputs/ts648
+inputs/jk2
+< inputs/tc377

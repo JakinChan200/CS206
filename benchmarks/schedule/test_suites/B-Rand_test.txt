@@ -1,0 +1,12 @@
+0 0 0 < input/tc.245
+6  7  10  < input/lu346
+6  7  8  < input/lu84
+0 3 0 < input/ct.11
+4 10 6 < input/ft.26
+0 5 1 < input/inp.hf.13
+< input/bdt.77
+6  5  6  < input/lu68
+0 1 4 < input/et.12
+9 10 2 < input/adt.3
+2 1 5 < input/ft.20
+7 10 9 < input/ft.6

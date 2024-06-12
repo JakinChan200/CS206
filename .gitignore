@@ -1,32 +1,46 @@
-# Prerequisites
-*.d
+**/*.gcno
+**/*.o
+**/*.gcov.json.gz
+**/a.out
+**/*.gcov**/*.gcda
+**/*.o
+**/*.gcno
+**/*.gcov
+**/*.gcov.json.gz
+test_code/pzn/json/
+test_code/pzn/**/*.txt
+test_code/pzn/parse
+test_code/pzn/pzn
+test_code/pzn/data_collect
+**/a.out
+**/*.gcov
+**/*.gcov.json.gz
+**/*.gcov.json
+**/*.json
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+benchmarks/*/parse.cpp
+benchmarks/*/data_collect.cpp
+benchmarks/*/run_tests.sh
+benchmarks/*/generate_tests.sh
+benchmarks/*/clean.sh
+benchmarks/*/data_collect
+benchmarks/*/parse
+*/*/v*/*.txt
+*/*/*1.txt
+*/*/*2.txt
+*/*/*3.txt
+*/*/*4.txt
+*/*/*5.txt
+*/*/*6.txt
+*/*/*7.txt
+*/*/*8.txt
+*/*/*9.txt
+*/*/*0.txt
+test_code/*/parse.cpp
+test_code/*/data_collect.cpp
+test_code/*/run_tests.sh
+test_code/*/generate_tests.sh
+test_code/*/clean.sh
+test_code/*/data_collect
+test_code/*/parse

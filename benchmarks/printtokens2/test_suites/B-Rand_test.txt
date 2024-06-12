@@ -1,0 +1,15 @@
+< inputs/tc70
+inputs/uslin.1550
+< inputs/uslin.615
+< inputs/tc211
+< inputs/newtst598.tst
+inputs/uslin.882
+inputs/uslin.202
+< inputs/tc63
+< inputs/test292
+< inputs/tst245
+< inputs/uslin.1147
+inputs/uslin.1250
+inputs/uslin.77.noeof
+< inputs/uslin.1132
+one doesntliketwo

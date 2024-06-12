@@ -1,0 +1,10 @@
+'[^a-c]*-[0-9]?[@@]?[^9-B]A ?' '' < temp-test/116.inp.53.1
+'??*' 'kU.apBPAkew_"lFw\!K;?J|IVb@XM3doSquoTX1J=[a&cJ' < input/ruin.1607
+'@n33[^9-0]omea%harlongstringdoesntmatt@twhatitisbutmustbeverylongwhateverthecharactersaredonesntmatteraslongasthestringistherightlengthandendswiththerightcharacterlkj45?1234ch$rcharcacterswilldojusttypinginsomechars@nandsomeflags@n@t-12345612345?123456-@3@##filedoesntmatt&&eitherasitsneverprocessed&&@@45612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' 'substringdoesntmatter' < input/ruin.1338
+'$%**' 'a' < moni/f7.inp
+'[Z-a]^_`a]' 'JY2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{G2k|h=&-kA{I^m)l>oO{GXAlF<%' < input/ruin.1032
+< input/ruin.400
+'*@n' 'MP&KwD.47](#W/L3Yj' < input/ruin.286
+'?{?' '=El&\Ww]-4826L?@ )'\''W\!>$'\'';W3DDU& vB%QGt;TIdL-& %kzJ($j5' < input/ruin.1567
+'[^- *' '&a@%' < temp-test/1615.inp.686.3
+'$ -[^9-B][a-c][9-B]' '@%&a' < temp-test/528.inp.229.1

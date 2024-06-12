@@ -1,0 +1,6 @@
+1 1 < input/ad.2
+1 1 0 < input/inp.hf.12
+1 8 1 < input/inp.5
+3 5 4 < input/adt.116
+8  3  2  < input/lu124
+1  6  9  < input/lu85
